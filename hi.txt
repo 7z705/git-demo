@@ -1,5 +1,6 @@
 hi hi git!
-hello git!
+<<<<<<< HEAD
 main
-main
-main
+=======
+hot-foxx
+>>>>>>> hot-foxx
